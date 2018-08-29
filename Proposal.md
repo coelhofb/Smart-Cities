@@ -12,7 +12,7 @@ Is there a correlation between walk/transit scores correlate to economic opportu
 
 Data Sets to be Used: Census API, Zillow API, Walkscore API, Transit API
 
-Rough Breakdown of Tasks:
+git Rough Breakdown of Tasks:
 Define list of variables
 Understanding what each API has
 Walkscore/transit – can we group by zip code?
